@@ -1,3 +1,3 @@
-# Remnant-Shield
+# Remnant.Shield
 
 [Documentation in progress...]
